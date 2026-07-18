@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="700"
+   height="400"
+   viewBox="0 0 700 399.99999"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   sodipodi:docname="SN74LS157N.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="1.3523417"
+     inkscape:cx="359.0069"
+     inkscape:cy="228.12282"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4" />
+  <defs
+     id="defs1">
+    <rect
+       x="184.57516"
+       y="152.67974"
+       width="199.21568"
+       height="32.4183"
+       id="rect4" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(43.503268)"
+     style="paint-order:fill markers stroke">
+    <g
+       id="g3"
+       style="paint-order:fill markers stroke"
+       inkscape:label="whole chip">
+      <g
+         id="g4"
+         inkscape:label="body">
+        <g
+           id="g30"
+           inkscape:label="body"
+           style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+          <path
+             d="m 60.483063,130.45703 v 47.32031 h 21.503906 c 12.166275,0 21.960931,9.79467 21.960931,21.96094 v 0.52344 c 0,12.16627 -9.794656,21.96094 -21.960931,21.96094 H 60.483063 v 47.32031 H 552.5104 V 130.45703 Z"
+             style="fill:#e6e6e6;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+             id="path2"
+             inkscape:label="body" />
+          <path
+             d="m 60.48306,222.22266 h 21.503906 c 12.166275,0 21.960934,-9.79467 21.960934,-21.96094 v -0.52344 c 0,-12.16627 -9.794659,-21.96094 -21.960934,-21.96094 H 60.48306 Z"
+             style="fill:#cccccc;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+             id="path3"
+             inkscape:label="head" />
+        </g>
+        <text
+           xml:space="preserve"
+           transform="translate(22.616847,33.824683)"
+           id="text4"
+           style="font-stretch:condensed;font-size:20px;line-height:1.5;font-family:Arial;-inkscape-font-specification:'Arial, Condensed';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;direction:ltr;text-orientation:sideways;white-space:pre;shape-inside:url(#rect4);display:inline;fill:#e6e6e6;fill-rule:evenodd;stroke:#808080;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+           x="0"
+           y="44.183006"
+           inkscape:label="name"><tspan
+             x="218.19629"
+             y="173.42629"
+             id="tspan4"><tspan
+               style="font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;fill:#1a1a1a;stroke:none"
+               id="tspan3">SN74LS157N</tspan></tspan></text>
+      </g>
+      <g
+         id="g2"
+         inkscape:label="top pins">
+        <g
+           id="g48"
+           style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+          <g
+             id="g13"
+             transform="translate(-9.6920167)"
+             style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+            <rect
+               style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.999996;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               id="rect5"
+               width="40.870003"
+               height="105.6209"
+               x="80.941177"
+               y="24.823528" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               x="-77.282417"
+               y="108.53438"
+               id="text13"
+               transform="rotate(-90)"><tspan
+                 sodipodi:role="line"
+                 id="tspan13"
+                 x="-77.282417"
+                 y="108.53438"
+                 style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">VCC</tspan></text>
+          </g>
+          <g
+             id="g32"
+             transform="translate(-9.692017,105.6209)"
+             style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+            <rect
+               style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.999995;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               id="rect5-8"
+               width="40.870003"
+               height="28.347536"
+               x="80.941177"
+               y="24.82353" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               x="-39.50267"
+               y="107.84492"
+               id="text13-6"
+               transform="rotate(-90)"><tspan
+                 sodipodi:role="line"
+                 id="tspan13-0"
+                 x="-39.50267"
+                 y="107.84492"
+                 style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">16</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g49"
+           style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+          <g
+             id="g15"
+             transform="translate(51.683003)"
+             style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+            <rect
+               style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.999996;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               id="rect15"
+               width="40.870003"
+               height="105.6209"
+               x="80.941177"
+               y="24.823528" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               x="-77.282417"
+               y="108.53438"
+               id="text15"
+               transform="rotate(-90)"><tspan
+                 sodipodi:role="line"
+                 id="tspan15"
+                 x="-77.282417"
+                 y="108.53438"
+                 style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">G</tspan></text>
+          </g>
+          <g
+             id="g33"
+             transform="translate(51.683003,105.6209)"
+             style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+            <rect
+               style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.999995;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               id="rect33"
+               width="40.870003"
+               height="28.347536"
+               x="80.941177"
+               y="24.82353" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               x="-39.50267"
+               y="107.84492"
+               id="text33"
+               transform="rotate(-90)"><tspan
+                 sodipodi:role="line"
+                 id="tspan33"
+                 x="-39.50267"
+                 y="107.84492"
+                 style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">15</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g50"
+           style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+          <g
+             id="g16"
+             transform="translate(113.05802)"
+             style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+            <rect
+               style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.999996;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               id="rect16"
+               width="40.870003"
+               height="105.6209"
+               x="80.941177"
+               y="24.823528" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               x="-77.282417"
+               y="108.53438"
+               id="text16"
+               transform="rotate(-90)"><tspan
+                 sodipodi:role="line"
+                 id="tspan16"
+                 x="-77.282417"
+                 y="108.53438"
+                 style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">A4</tspan></text>
+          </g>
+          <g
+             id="g34"
+             transform="translate(113.05802,105.6209)"
+             style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+            <rect
+               style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.999995;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               id="rect34"
+               width="40.870003"
+               height="28.347536"
+               x="80.941177"
+               y="24.82353" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               x="-39.50267"
+               y="107.84492"
+               id="text34"
+               transform="rotate(-90)"><tspan
+                 sodipodi:role="line"
+                 id="tspan34"
+                 x="-39.50267"
+                 y="107.84492"
+                 style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">14</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g51"
+           style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+          <g
+             id="g17"
+             transform="translate(174.43304)"
+             style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+            <rect
+               style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.999996;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               id="rect17"
+               width="40.870003"
+               height="105.6209"
+               x="80.941177"
+               y="24.823528" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               x="-77.282417"
+               y="108.53438"
+               id="text17"
+               transform="rotate(-90)"><tspan
+                 sodipodi:role="line"
+                 id="tspan17"
+                 x="-77.282417"
+                 y="108.53438"
+                 style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">B4</tspan></text>
+          </g>
+          <g
+             id="g35"
+             transform="translate(174.43304,105.6209)"
+             style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+            <rect
+               style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.999995;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               id="rect35"
+               width="40.870003"
+               height="28.347536"
+               x="80.941177"
+               y="24.82353" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               x="-39.50267"
+               y="107.84492"
+               id="text35"
+               transform="rotate(-90)"><tspan
+                 sodipodi:role="line"
+                 id="tspan35"
+                 x="-39.50267"
+                 y="107.84492"
+                 style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">13</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g52"
+           style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+          <g
+             id="g18"
+             transform="translate(235.80806)"
+             style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+            <rect
+               style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.999996;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               id="rect18"
+               width="40.870003"
+               height="105.6209"
+               x="80.941177"
+               y="24.823528" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               x="-77.282417"
+               y="108.53438"
+               id="text18"
+               transform="rotate(-90)"><tspan
+                 sodipodi:role="line"
+                 id="tspan18"
+                 x="-77.282417"
+                 y="108.53438"
+                 style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">Y4</tspan></text>
+          </g>
+          <g
+             id="g36"
+             transform="translate(235.80806,105.6209)"
+             style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+            <rect
+               style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.999995;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               id="rect36"
+               width="40.870003"
+               height="28.347536"
+               x="80.941177"
+               y="24.82353" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               x="-39.50267"
+               y="107.84492"
+               id="text36"
+               transform="rotate(-90)"><tspan
+                 sodipodi:role="line"
+                 id="tspan36"
+                 x="-39.50267"
+                 y="107.84492"
+                 style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">12</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g53"
+           style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+          <g
+             id="g19"
+             transform="translate(297.18308)"
+             style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+            <rect
+               style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.999996;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               id="rect19"
+               width="40.870003"
+               height="105.6209"
+               x="80.941177"
+               y="24.823528" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               x="-77.282417"
+               y="108.53438"
+               id="text19"
+               transform="rotate(-90)"><tspan
+                 sodipodi:role="line"
+                 id="tspan19"
+                 x="-77.282417"
+                 y="108.53438"
+                 style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">A3</tspan></text>
+          </g>
+          <g
+             id="g37"
+             transform="translate(297.18308,105.6209)"
+             style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+            <rect
+               style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.999995;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               id="rect37"
+               width="40.870003"
+               height="28.347536"
+               x="80.941177"
+               y="24.82353" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               x="-39.50267"
+               y="107.84492"
+               id="text37"
+               transform="rotate(-90)"><tspan
+                 sodipodi:role="line"
+                 id="tspan37"
+                 x="-39.50267"
+                 y="107.84492"
+                 style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">11</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g54"
+           style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+          <g
+             id="g20"
+             transform="translate(358.5581)"
+             style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+            <rect
+               style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.999996;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               id="rect20"
+               width="40.870003"
+               height="105.6209"
+               x="80.941177"
+               y="24.823528" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               x="-77.282417"
+               y="108.53438"
+               id="text20"
+               transform="rotate(-90)"><tspan
+                 sodipodi:role="line"
+                 id="tspan20"
+                 x="-77.282417"
+                 y="108.53438"
+                 style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">B3</tspan></text>
+          </g>
+          <g
+             id="g38"
+             transform="translate(358.5581,105.6209)"
+             style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+            <rect
+               style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.999995;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               id="rect38"
+               width="40.870003"
+               height="28.347536"
+               x="80.941177"
+               y="24.82353" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               x="-39.50267"
+               y="107.84492"
+               id="text38"
+               transform="rotate(-90)"><tspan
+                 sodipodi:role="line"
+                 id="tspan38"
+                 x="-39.50267"
+                 y="107.84492"
+                 style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">10</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g55"
+           style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+          <g
+             id="g21"
+             transform="translate(419.93312)"
+             style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+            <rect
+               style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.999996;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               id="rect21"
+               width="40.870003"
+               height="105.6209"
+               x="80.941177"
+               y="24.823528" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               x="-77.282417"
+               y="108.53438"
+               id="text21"
+               transform="rotate(-90)"><tspan
+                 sodipodi:role="line"
+                 id="tspan21"
+                 x="-77.282417"
+                 y="108.53438"
+                 style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">Y3</tspan></text>
+          </g>
+          <g
+             id="g39"
+             transform="translate(419.93312,105.6209)"
+             style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+            <rect
+               style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.999995;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               id="rect39"
+               width="40.870003"
+               height="28.347536"
+               x="80.941177"
+               y="24.82353" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               x="-39.50267"
+               y="107.84492"
+               id="text39"
+               transform="rotate(-90)"><tspan
+                 sodipodi:role="line"
+                 id="tspan39"
+                 x="-39.50267"
+                 y="107.84492"
+                 style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">9</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g1"
+         inkscape:label="bottom pins">
+        <g
+           id="g63"
+           style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+          <g
+             id="g22"
+             transform="translate(-9.6920167,244.73204)"
+             style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+            <rect
+               style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.999996;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               id="rect22"
+               width="40.870003"
+               height="105.6209"
+               x="80.941177"
+               y="24.823528" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               x="-77.282417"
+               y="108.53438"
+               id="text22"
+               transform="rotate(-90)"><tspan
+                 sodipodi:role="line"
+                 id="tspan22"
+                 x="-77.282417"
+                 y="108.53438"
+                 style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">S</tspan></text>
+          </g>
+          <g
+             id="g40"
+             transform="translate(-9.692017,216.3845)"
+             style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+            <rect
+               style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.999995;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               id="rect40"
+               width="40.870003"
+               height="28.347536"
+               x="80.941177"
+               y="24.82353" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               x="-39.50267"
+               y="107.84492"
+               id="text40"
+               transform="rotate(-90)"><tspan
+                 sodipodi:role="line"
+                 id="tspan40"
+                 x="-39.50267"
+                 y="107.84492"
+                 style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">1</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g62"
+           style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+          <g
+             id="g23"
+             transform="translate(51.683003,244.73204)"
+             style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+            <rect
+               style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.999996;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               id="rect23"
+               width="40.870003"
+               height="105.6209"
+               x="80.941177"
+               y="24.823528" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               x="-77.282417"
+               y="108.53438"
+               id="text23"
+               transform="rotate(-90)"><tspan
+                 sodipodi:role="line"
+                 id="tspan23"
+                 x="-77.282417"
+                 y="108.53438"
+                 style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">A1</tspan></text>
+          </g>
+          <g
+             id="g41"
+             transform="translate(51.683003,216.3845)"
+             style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+            <rect
+               style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.999995;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               id="rect41"
+               width="40.870003"
+               height="28.347536"
+               x="80.941177"
+               y="24.82353" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               x="-39.50267"
+               y="107.84492"
+               id="text41"
+               transform="rotate(-90)"><tspan
+                 sodipodi:role="line"
+                 id="tspan41"
+                 x="-39.50267"
+                 y="107.84492"
+                 style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">2</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g61"
+           style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+          <g
+             id="g24"
+             transform="translate(113.05802,244.73204)"
+             style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+            <rect
+               style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.999996;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               id="rect24"
+               width="40.870003"
+               height="105.6209"
+               x="80.941177"
+               y="24.823528" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               x="-77.282417"
+               y="108.53438"
+               id="text24"
+               transform="rotate(-90)"><tspan
+                 sodipodi:role="line"
+                 id="tspan24"
+                 x="-77.282417"
+                 y="108.53438"
+                 style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">B1</tspan></text>
+          </g>
+          <g
+             id="g42"
+             transform="translate(113.05802,216.3845)"
+             style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+            <rect
+               style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.999995;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               id="rect42"
+               width="40.870003"
+               height="28.347536"
+               x="80.941177"
+               y="24.82353" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               x="-39.50267"
+               y="107.84492"
+               id="text42"
+               transform="rotate(-90)"><tspan
+                 sodipodi:role="line"
+                 id="tspan42"
+                 x="-39.50267"
+                 y="107.84492"
+                 style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">3</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g60"
+           style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+          <g
+             id="g25"
+             transform="translate(174.43304,244.73204)"
+             style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+            <rect
+               style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.999996;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               id="rect25"
+               width="40.870003"
+               height="105.6209"
+               x="80.941177"
+               y="24.823528" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               x="-77.282417"
+               y="108.53438"
+               id="text25"
+               transform="rotate(-90)"><tspan
+                 sodipodi:role="line"
+                 id="tspan25"
+                 x="-77.282417"
+                 y="108.53438"
+                 style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">Y1</tspan></text>
+          </g>
+          <g
+             id="g43"
+             transform="translate(174.43304,216.3845)"
+             style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+            <rect
+               style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.999995;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               id="rect43"
+               width="40.870003"
+               height="28.347536"
+               x="80.941177"
+               y="24.82353" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               x="-39.50267"
+               y="107.84492"
+               id="text43"
+               transform="rotate(-90)"><tspan
+                 sodipodi:role="line"
+                 id="tspan43"
+                 x="-39.50267"
+                 y="107.84492"
+                 style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">4</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g59"
+           style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+          <g
+             id="g26"
+             transform="translate(235.80806,244.73204)"
+             style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+            <rect
+               style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.999996;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               id="rect26"
+               width="40.870003"
+               height="105.6209"
+               x="80.941177"
+               y="24.823528" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               x="-77.282417"
+               y="108.53438"
+               id="text26"
+               transform="rotate(-90)"><tspan
+                 sodipodi:role="line"
+                 id="tspan26"
+                 x="-77.282417"
+                 y="108.53438"
+                 style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">A2</tspan></text>
+          </g>
+          <g
+             id="g44"
+             transform="translate(235.80806,216.3845)"
+             style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+            <rect
+               style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.999995;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               id="rect44"
+               width="40.870003"
+               height="28.347536"
+               x="80.941177"
+               y="24.82353" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               x="-39.50267"
+               y="107.84492"
+               id="text44"
+               transform="rotate(-90)"><tspan
+                 sodipodi:role="line"
+                 id="tspan44"
+                 x="-39.50267"
+                 y="107.84492"
+                 style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">5</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g58"
+           style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+          <g
+             id="g27"
+             transform="translate(297.18308,244.73204)"
+             style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+            <rect
+               style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.999996;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               id="rect27"
+               width="40.870003"
+               height="105.6209"
+               x="80.941177"
+               y="24.823528" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               x="-77.282417"
+               y="108.53438"
+               id="text27"
+               transform="rotate(-90)"><tspan
+                 sodipodi:role="line"
+                 id="tspan27"
+                 x="-77.282417"
+                 y="108.53438"
+                 style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">B2</tspan></text>
+          </g>
+          <g
+             id="g45"
+             transform="translate(297.18308,216.3845)"
+             style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+            <rect
+               style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.999995;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               id="rect45"
+               width="40.870003"
+               height="28.347536"
+               x="80.941177"
+               y="24.82353" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               x="-39.50267"
+               y="107.84492"
+               id="text45"
+               transform="rotate(-90)"><tspan
+                 sodipodi:role="line"
+                 id="tspan45"
+                 x="-39.50267"
+                 y="107.84492"
+                 style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">6</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g57"
+           style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+          <g
+             id="g28"
+             transform="translate(358.5581,244.73204)"
+             style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+            <rect
+               style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.999996;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               id="rect28"
+               width="40.870003"
+               height="105.6209"
+               x="80.941177"
+               y="24.823528" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               x="-77.282417"
+               y="108.53438"
+               id="text28"
+               transform="rotate(-90)"><tspan
+                 sodipodi:role="line"
+                 id="tspan28"
+                 x="-77.282417"
+                 y="108.53438"
+                 style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">Y2</tspan></text>
+          </g>
+          <g
+             id="g46"
+             transform="translate(358.5581,216.3845)"
+             style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+            <rect
+               style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.999995;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               id="rect46"
+               width="40.870003"
+               height="28.347536"
+               x="80.941177"
+               y="24.82353" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               x="-39.50267"
+               y="107.84492"
+               id="text46"
+               transform="rotate(-90)"><tspan
+                 sodipodi:role="line"
+                 id="tspan46"
+                 x="-39.50267"
+                 y="107.84492"
+                 style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">7</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g56"
+           style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+          <g
+             id="g29"
+             transform="translate(419.93312,244.73204)"
+             style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+            <rect
+               style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.999996;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               id="rect29"
+               width="40.870003"
+               height="105.6209"
+               x="80.941177"
+               y="24.823528" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               x="-77.282417"
+               y="108.53438"
+               id="text29"
+               transform="rotate(-90)"><tspan
+                 sodipodi:role="line"
+                 id="tspan29"
+                 x="-77.282417"
+                 y="108.53438"
+                 style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">GND</tspan></text>
+          </g>
+          <g
+             id="g47"
+             transform="translate(419.93312,216.3845)"
+             style="paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">
+            <rect
+               style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.999995;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               id="rect47"
+               width="40.870003"
+               height="28.347536"
+               x="80.941177"
+               y="24.82353" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+               x="-39.50267"
+               y="107.84492"
+               id="text47"
+               transform="rotate(-90)"><tspan
+                 sodipodi:role="line"
+                 id="tspan47"
+                 x="-39.50267"
+                 y="107.84492"
+                 style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;paint-order:fill markers stroke;stroke-linejoin:miter;stroke-linecap:butt">8</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
