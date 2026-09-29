@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="700"
+   height="400"
+   viewBox="0 0 700 399.99999"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="SN74LS139AN.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="1.3523417"
+     inkscape:cx="349.39394"
+     inkscape:cy="201.87206"
+     inkscape:window-width="1316"
+     inkscape:window-height="1000"
+     inkscape:window-x="-7"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="184.57516"
+       y="152.67974"
+       width="199.21568"
+       height="32.4183"
+       id="rect4" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(43.503268)"
+     style="paint-order:fill markers stroke">
+    <g
+       id="g1">
+      <path
+         d="m 60.483063,130.45703 v 47.32031 h 21.503906 c 12.166275,0 21.960931,9.79467 21.960931,21.96094 v 0.52344 c 0,12.16627 -9.794656,21.96094 -21.960931,21.96094 H 60.483063 v 47.32031 H 552.5104 V 130.45703 Z"
+         style="fill:#e6e6e6;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         id="path2"
+         inkscape:label="body" />
+      <path
+         d="m 60.48306,222.22266 h 21.503906 c 12.166275,0 21.960934,-9.79467 21.960934,-21.96094 v -0.52344 c 0,-12.16627 -9.794659,-21.96094 -21.960934,-21.96094 H 60.48306 Z"
+         style="fill:#cccccc;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         id="path3"
+         inkscape:label="head" />
+      <text
+         xml:space="preserve"
+         transform="translate(22.616849,33.844214)"
+         id="text4"
+         style="font-stretch:condensed;font-size:20px;line-height:1.5;font-family:Arial;-inkscape-font-specification:'Arial, Condensed';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;direction:ltr;text-orientation:sideways;white-space:pre;shape-inside:url(#rect4);display:inline;fill:#e6e6e6;fill-rule:evenodd;stroke:#808080;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         x="0"
+         y="44.183006"
+         inkscape:label="name"><tspan
+           x="211.36035"
+           y="173.42629"
+           id="tspan2"><tspan
+             style="font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;fill:#1a1a1a;stroke:none"
+             id="tspan1">SN74LS139AN</tspan></tspan></text>
+      <rect
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.999996;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         id="rect5"
+         width="40.870003"
+         height="105.6209"
+         x="71.249161"
+         y="24.823528" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         x="-77.282417"
+         y="98.842361"
+         id="text13"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan13"
+           x="-77.282417"
+           y="98.842361"
+           style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">VCC</tspan></text>
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.999995;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         id="rect5-8"
+         width="40.870003"
+         height="28.347536"
+         x="71.249161"
+         y="130.44443" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         x="-145.12357"
+         y="98.152901"
+         id="text13-6"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan13-0"
+           x="-145.12357"
+           y="98.152901"
+           style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">16</tspan></text>
+      <rect
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.999996;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         id="rect15"
+         width="40.870003"
+         height="105.6209"
+         x="132.62418"
+         y="24.823528" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         x="-77.871284"
+         y="159.50156"
+         id="text15"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan15"
+           x="-77.871284"
+           y="159.50156"
+           style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">ENABLE G2</tspan></text>
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.999995;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         id="rect33"
+         width="40.870003"
+         height="28.347536"
+         x="132.62418"
+         y="130.44443" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         x="-145.12357"
+         y="159.52792"
+         id="text33"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan33"
+           x="-145.12357"
+           y="159.52792"
+           style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">15</tspan></text>
+      <rect
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.999996;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         id="rect16"
+         width="40.870003"
+         height="105.6209"
+         x="193.99919"
+         y="24.823528" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         x="-77.282417"
+         y="221.59239"
+         id="text16"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan16"
+           x="-77.282417"
+           y="221.59239"
+           style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">SELECT A2</tspan></text>
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.999995;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         id="rect34"
+         width="40.870003"
+         height="28.347536"
+         x="193.99919"
+         y="130.44443" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         x="-145.12357"
+         y="220.90294"
+         id="text34"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan34"
+           x="-145.12357"
+           y="220.90294"
+           style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">14</tspan></text>
+      <rect
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.999996;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         id="rect17"
+         width="40.870003"
+         height="105.6209"
+         x="255.37422"
+         y="24.823528" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         x="-77.282417"
+         y="282.96741"
+         id="text17"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan17"
+           x="-77.282417"
+           y="282.96741"
+           style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">SELECT B2</tspan></text>
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.999995;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         id="rect35"
+         width="40.870003"
+         height="28.347536"
+         x="255.37422"
+         y="130.44443" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         x="-145.12357"
+         y="282.27795"
+         id="text35"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan35"
+           x="-145.12357"
+           y="282.27795"
+           style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">13</tspan></text>
+      <rect
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.999996;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         id="rect18"
+         width="40.870003"
+         height="105.6209"
+         x="316.74924"
+         y="24.823528" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         x="-77.282417"
+         y="344.34244"
+         id="text18"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan18"
+           x="-77.282417"
+           y="344.34244"
+           style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">OUT 2Y0</tspan></text>
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.999995;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         id="rect36"
+         width="40.870003"
+         height="28.347536"
+         x="316.74924"
+         y="130.44443" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         x="-145.12357"
+         y="343.65298"
+         id="text36"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan36"
+           x="-145.12357"
+           y="343.65298"
+           style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">12</tspan></text>
+      <rect
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.999996;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         id="rect19"
+         width="40.870003"
+         height="105.6209"
+         x="378.12427"
+         y="24.823528" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         x="-77.282417"
+         y="405.71747"
+         id="text19"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan19"
+           x="-77.282417"
+           y="405.71747"
+           style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">OUT 2Y1</tspan></text>
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.999995;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         id="rect37"
+         width="40.870003"
+         height="28.347536"
+         x="378.12427"
+         y="130.44443" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         x="-145.12357"
+         y="405.02798"
+         id="text37"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan37"
+           x="-145.12357"
+           y="405.02798"
+           style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">11</tspan></text>
+      <rect
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.999996;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         id="rect20"
+         width="40.870003"
+         height="105.6209"
+         x="439.49927"
+         y="24.823528" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         x="-77.282417"
+         y="467.09247"
+         id="text20"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan20"
+           x="-77.282417"
+           y="467.09247"
+           style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">OUT 2Y2</tspan></text>
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.999995;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         id="rect38"
+         width="40.870003"
+         height="28.347536"
+         x="439.49927"
+         y="130.44443" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         x="-145.12357"
+         y="466.40302"
+         id="text38"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan38"
+           x="-145.12357"
+           y="466.40302"
+           style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">10</tspan></text>
+      <rect
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.999996;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         id="rect21"
+         width="40.870003"
+         height="105.6209"
+         x="500.8743"
+         y="24.823528" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         x="-77.282417"
+         y="528.46747"
+         id="text21"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan21"
+           x="-77.282417"
+           y="528.46747"
+           style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">OUT 2Y3</tspan></text>
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.999995;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         id="rect39"
+         width="40.870003"
+         height="28.347536"
+         x="500.8743"
+         y="130.44443" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         x="-145.12357"
+         y="527.77802"
+         id="text39"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan39"
+           x="-145.12357"
+           y="527.77802"
+           style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">9</tspan></text>
+      <rect
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.999996;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         id="rect22"
+         width="40.870003"
+         height="105.6209"
+         x="71.249161"
+         y="269.55557" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         x="-322.01447"
+         y="98.842361"
+         id="text22"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan22"
+           x="-322.01447"
+           y="98.842361"
+           style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">ENABLE G1</tspan></text>
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.999995;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         id="rect40"
+         width="40.870003"
+         height="28.347536"
+         x="71.249161"
+         y="241.20802" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         x="-255.88718"
+         y="98.152901"
+         id="text40"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan40"
+           x="-255.88718"
+           y="98.152901"
+           style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">1</tspan></text>
+      <rect
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.999996;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         id="rect23"
+         width="40.870003"
+         height="105.6209"
+         x="132.62418"
+         y="269.55557" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         x="-322.01447"
+         y="160.21738"
+         id="text23"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan23"
+           x="-322.01447"
+           y="160.21738"
+           style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">SELECT A1</tspan></text>
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.999995;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         id="rect41"
+         width="40.870003"
+         height="28.347536"
+         x="132.62418"
+         y="241.20802" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         x="-255.88718"
+         y="159.52792"
+         id="text41"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan41"
+           x="-255.88718"
+           y="159.52792"
+           style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">2</tspan></text>
+      <rect
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.999996;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         id="rect24"
+         width="40.870003"
+         height="105.6209"
+         x="193.99919"
+         y="269.55557" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         x="-322.01447"
+         y="221.59239"
+         id="text24"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan24"
+           x="-322.01447"
+           y="221.59239"
+           style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">SELECT B1</tspan></text>
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.999995;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         id="rect42"
+         width="40.870003"
+         height="28.347536"
+         x="193.99919"
+         y="241.20802" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         x="-255.88718"
+         y="220.90294"
+         id="text42"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan42"
+           x="-255.88718"
+           y="220.90294"
+           style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">3</tspan></text>
+      <rect
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.999996;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         id="rect25"
+         width="40.870003"
+         height="105.6209"
+         x="255.37422"
+         y="269.55557" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         x="-322.01447"
+         y="282.96741"
+         id="text25"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan25"
+           x="-322.01447"
+           y="282.96741"
+           style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">OUT 1Y0</tspan></text>
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.999995;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         id="rect43"
+         width="40.870003"
+         height="28.347536"
+         x="255.37422"
+         y="241.20802" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         x="-255.88718"
+         y="282.27795"
+         id="text43"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan43"
+           x="-255.88718"
+           y="282.27795"
+           style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">4</tspan></text>
+      <rect
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.999996;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         id="rect26"
+         width="40.870003"
+         height="105.6209"
+         x="316.74924"
+         y="269.55557" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         x="-322.01447"
+         y="344.34244"
+         id="text26"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan26"
+           x="-322.01447"
+           y="344.34244"
+           style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">OUT 1Y1</tspan></text>
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.999995;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         id="rect44"
+         width="40.870003"
+         height="28.347536"
+         x="316.74924"
+         y="241.20802" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         x="-255.88718"
+         y="343.65298"
+         id="text44"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan44"
+           x="-255.88718"
+           y="343.65298"
+           style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">5</tspan></text>
+      <rect
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.999996;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         id="rect27"
+         width="40.870003"
+         height="105.6209"
+         x="378.12427"
+         y="269.55557" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         x="-322.01447"
+         y="405.71747"
+         id="text27"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan27"
+           x="-322.01447"
+           y="405.71747"
+           style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">OUT 1Y2</tspan></text>
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.999995;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         id="rect45"
+         width="40.870003"
+         height="28.347536"
+         x="378.12427"
+         y="241.20802" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         x="-255.88718"
+         y="405.02798"
+         id="text45"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan45"
+           x="-255.88718"
+           y="405.02798"
+           style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">6</tspan></text>
+      <rect
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.999996;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         id="rect28"
+         width="40.870003"
+         height="105.6209"
+         x="439.49927"
+         y="269.55557" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         x="-322.01447"
+         y="467.09247"
+         id="text28"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan28"
+           x="-322.01447"
+           y="467.09247"
+           style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">OUT 1Y3</tspan></text>
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.999995;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         id="rect46"
+         width="40.870003"
+         height="28.347536"
+         x="439.49927"
+         y="241.20802" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         x="-255.88718"
+         y="466.40302"
+         id="text46"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan46"
+           x="-255.88718"
+           y="466.40302"
+           style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">7</tspan></text>
+      <rect
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.999996;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         id="rect29"
+         width="40.870003"
+         height="105.6209"
+         x="500.8743"
+         y="269.55557" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         x="-322.01447"
+         y="528.46747"
+         id="text29"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan29"
+           x="-322.01447"
+           y="528.46747"
+           style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">GND</tspan></text>
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.999995;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         id="rect47"
+         width="40.870003"
+         height="28.347536"
+         x="500.8743"
+         y="241.20802" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.5;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke"
+         x="-255.88718"
+         y="527.77802"
+         id="text47"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan47"
+           x="-255.88718"
+           y="527.77802"
+           style="font-size:18px;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;paint-order:fill markers stroke">8</tspan></text>
+    </g>
+  </g>
+</svg>
